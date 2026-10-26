@@ -1,0 +1,72 @@
+-- Power BI DAX measures
+-- Import Customers, Products, Orders, OrderItems, Payments.
+-- Recommended relationships:
+-- Customers[CustomerID] 1 -> * Orders[CustomerID]
+-- Orders[OrderID] 1 -> * OrderItems[OrderID]
+-- Products[ProductID] 1 -> * OrderItems[ProductID]
+-- Orders[OrderID] 1 -> * Payments[OrderID]
+-- Create a Date table and relate Date[Date] 1 -> * Orders[OrderDate].
+
+Date =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2025, 1, 1 ), DATE ( 2025, 12, 31 ) ),
+    "Year", YEAR ( [Date] ),
+    "MonthNo", MONTH ( [Date] ),
+    "Month", FORMAT ( [Date], "MMM" ),
+    "YearMonth", FORMAT ( [Date], "YYYY-MM" )
+)
+
+Total Orders =
+DISTINCTCOUNT ( Orders[OrderID] )
+
+Completed Orders =
+CALCULATE ( [Total Orders], Orders[OrderStatus] = "Completed" )
+
+Completed Revenue =
+CALCULATE (
+    SUM ( OrderItems[LineSalesINR] ),
+    Orders[OrderStatus] = "Completed"
+)
+
+Completed Profit =
+CALCULATE (
+    SUM ( OrderItems[LineProfitINR] ),
+    Orders[OrderStatus] = "Completed"
+)
+
+Profit Margin % =
+DIVIDE ( [Completed Profit], [Completed Revenue], 0 )
+
+Units Sold (Completed) =
+CALCULATE (
+    SUM ( OrderItems[Quantity] ),
+    Orders[OrderStatus] = "Completed"
+)
+
+Average Order Value =
+DIVIDE ( [Completed Revenue], [Completed Orders], 0 )
+
+Customers with Completed Orders =
+CALCULATE (
+    DISTINCTCOUNT ( Orders[CustomerID] ),
+    Orders[OrderStatus] = "Completed"
+)
+
+Returned Orders =
+CALCULATE ( [Total Orders], Orders[OrderStatus] = "Returned" )
+
+Cancelled Orders =
+CALCULATE ( [Total Orders], Orders[OrderStatus] = "Cancelled" )
+
+Revenue YTD =
+TOTALYTD ( [Completed Revenue], 'Date'[Date] )
+
+Revenue Previous Month =
+CALCULATE ( [Completed Revenue], DATEADD ( 'Date'[Date], -1, MONTH ) )
+
+Revenue MoM Change % =
+DIVIDE (
+    [Completed Revenue] - [Revenue Previous Month],
+    [Revenue Previous Month],
+    0
+)

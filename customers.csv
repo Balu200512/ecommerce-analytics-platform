@@ -1,0 +1,251 @@
+CustomerID,CustomerName,City,State,SignupDate,CustomerSegment
+C0001,Customer 0001,Bengaluru,Telangana,2024-02-19,Loyal
+C0002,Customer 0002,Mumbai,Tamil Nadu,2024-12-16,Returning
+C0003,Customer 0003,Hyderabad,Maharashtra,2023-02-19,New
+C0004,Customer 0004,Chennai,Telangana,2023-04-11,New
+C0005,Customer 0005,Hyderabad,Delhi,2025-05-30,New
+C0006,Customer 0006,Mumbai,Rajasthan,2023-06-17,Loyal
+C0007,Customer 0007,Pune,Maharashtra,2023-10-19,Returning
+C0008,Customer 0008,Jaipur,Rajasthan,2025-09-24,Loyal
+C0009,Customer 0009,Pune,Telangana,2024-09-14,New
+C0010,Customer 0010,Bengaluru,Tamil Nadu,2023-08-11,Returning
+C0011,Customer 0011,Kochi,Rajasthan,2023-05-01,Loyal
+C0012,Customer 0012,Mumbai,Telangana,2025-04-20,New
+C0013,Customer 0013,Delhi,Rajasthan,2025-09-29,New
+C0014,Customer 0014,Hyderabad,Maharashtra,2023-09-10,Loyal
+C0015,Customer 0015,Chennai,Rajasthan,2025-03-01,Returning
+C0016,Customer 0016,Chennai,Kerala,2025-04-14,New
+C0017,Customer 0017,Jaipur,Karnataka,2023-07-15,New
+C0018,Customer 0018,Chennai,Delhi,2025-08-14,Loyal
+C0019,Customer 0019,Mumbai,Kerala,2024-03-23,Returning
+C0020,Customer 0020,Bengaluru,Maharashtra,2023-08-13,New
+C0021,Customer 0021,Chennai,Maharashtra,2023-10-07,Returning
+C0022,Customer 0022,Bengaluru,Kerala,2025-04-07,Loyal
+C0023,Customer 0023,Hyderabad,Karnataka,2024-02-25,New
+C0024,Customer 0024,Pune,Rajasthan,2025-02-24,New
+C0025,Customer 0025,Kochi,Rajasthan,2023-05-28,New
+C0026,Customer 0026,Kochi,Telangana,2025-02-12,Returning
+C0027,Customer 0027,Pune,Telangana,2025-08-30,Returning
+C0028,Customer 0028,Hyderabad,Tamil Nadu,2025-04-16,Returning
+C0029,Customer 0029,Kochi,Maharashtra,2025-10-12,Returning
+C0030,Customer 0030,Delhi,Delhi,2023-05-18,Returning
+C0031,Customer 0031,Delhi,Kerala,2023-05-23,New
+C0032,Customer 0032,Jaipur,Delhi,2025-02-05,Loyal
+C0033,Customer 0033,Mumbai,Kerala,2024-10-16,Loyal
+C0034,Customer 0034,Kochi,Kerala,2025-07-17,Returning
+C0035,Customer 0035,Kochi,Rajasthan,2023-01-02,New
+C0036,Customer 0036,Pune,Kerala,2023-09-06,New
+C0037,Customer 0037,Delhi,Maharashtra,2024-07-28,Returning
+C0038,Customer 0038,Delhi,Karnataka,2023-01-01,Loyal
+C0039,Customer 0039,Jaipur,Telangana,2025-09-15,Loyal
+C0040,Customer 0040,Delhi,Karnataka,2023-01-07,Returning
+C0041,Customer 0041,Mumbai,Maharashtra,2025-07-03,Loyal
+C0042,Customer 0042,Kochi,Maharashtra,2023-11-06,Loyal
+C0043,Customer 0043,Bengaluru,Rajasthan,2023-01-12,Returning
+C0044,Customer 0044,Mumbai,Delhi,2025-04-28,New
+C0045,Customer 0045,Mumbai,Kerala,2025-09-29,New
+C0046,Customer 0046,Jaipur,Kerala,2025-01-31,Returning
+C0047,Customer 0047,Pune,Rajasthan,2023-10-02,Returning
+C0048,Customer 0048,Pune,Delhi,2024-06-04,New
+C0049,Customer 0049,Pune,Telangana,2023-03-08,Loyal
+C0050,Customer 0050,Kochi,Maharashtra,2025-03-22,Loyal
+C0051,Customer 0051,Pune,Kerala,2023-11-07,Returning
+C0052,Customer 0052,Kochi,Telangana,2024-02-05,Loyal
+C0053,Customer 0053,Bengaluru,Karnataka,2024-05-15,New
+C0054,Customer 0054,Pune,Karnataka,2024-10-19,New
+C0055,Customer 0055,Hyderabad,Karnataka,2024-08-23,Returning
+C0056,Customer 0056,Hyderabad,Maharashtra,2025-11-04,Loyal
+C0057,Customer 0057,Delhi,Karnataka,2025-05-29,Loyal
+C0058,Customer 0058,Hyderabad,Kerala,2025-04-09,Returning
+C0059,Customer 0059,Chennai,Tamil Nadu,2023-12-05,New
+C0060,Customer 0060,Chennai,Delhi,2023-01-27,New
+C0061,Customer 0061,Kochi,Tamil Nadu,2025-06-04,Returning
+C0062,Customer 0062,Hyderabad,Karnataka,2023-09-01,Loyal
+C0063,Customer 0063,Pune,Delhi,2023-02-24,New
+C0064,Customer 0064,Bengaluru,Telangana,2023-12-18,Returning
+C0065,Customer 0065,Chennai,Karnataka,2024-07-08,Loyal
+C0066,Customer 0066,Delhi,Telangana,2025-01-23,New
+C0067,Customer 0067,Jaipur,Telangana,2024-10-31,Loyal
+C0068,Customer 0068,Chennai,Delhi,2024-10-16,Loyal
+C0069,Customer 0069,Bengaluru,Delhi,2024-10-06,New
+C0070,Customer 0070,Mumbai,Rajasthan,2024-08-13,Loyal
+C0071,Customer 0071,Hyderabad,Kerala,2023-03-08,New
+C0072,Customer 0072,Kochi,Tamil Nadu,2023-02-15,Loyal
+C0073,Customer 0073,Chennai,Kerala,2025-10-27,Loyal
+C0074,Customer 0074,Delhi,Kerala,2024-06-04,New
+C0075,Customer 0075,Hyderabad,Telangana,2025-12-30,Loyal
+C0076,Customer 0076,Delhi,Maharashtra,2025-05-16,Returning
+C0077,Customer 0077,Hyderabad,Karnataka,2023-03-17,Returning
+C0078,Customer 0078,Chennai,Delhi,2025-10-31,Loyal
+C0079,Customer 0079,Kochi,Telangana,2025-12-07,Loyal
+C0080,Customer 0080,Chennai,Delhi,2025-03-10,New
+C0081,Customer 0081,Kochi,Tamil Nadu,2023-10-09,New
+C0082,Customer 0082,Mumbai,Kerala,2024-08-04,New
+C0083,Customer 0083,Jaipur,Kerala,2023-08-20,New
+C0084,Customer 0084,Kochi,Kerala,2024-05-06,New
+C0085,Customer 0085,Chennai,Karnataka,2024-03-22,Returning
+C0086,Customer 0086,Delhi,Delhi,2024-09-03,New
+C0087,Customer 0087,Jaipur,Delhi,2024-10-16,Returning
+C0088,Customer 0088,Pune,Tamil Nadu,2024-10-15,New
+C0089,Customer 0089,Kochi,Delhi,2024-12-05,Returning
+C0090,Customer 0090,Delhi,Telangana,2024-02-29,Loyal
+C0091,Customer 0091,Jaipur,Rajasthan,2024-12-31,Returning
+C0092,Customer 0092,Kochi,Telangana,2023-02-14,New
+C0093,Customer 0093,Delhi,Maharashtra,2024-01-14,Loyal
+C0094,Customer 0094,Hyderabad,Rajasthan,2024-04-11,Returning
+C0095,Customer 0095,Hyderabad,Delhi,2025-08-05,Returning
+C0096,Customer 0096,Jaipur,Karnataka,2024-04-17,New
+C0097,Customer 0097,Hyderabad,Tamil Nadu,2023-01-06,New
+C0098,Customer 0098,Delhi,Tamil Nadu,2025-09-19,New
+C0099,Customer 0099,Jaipur,Delhi,2024-06-30,New
+C0100,Customer 0100,Hyderabad,Rajasthan,2025-01-14,Loyal
+C0101,Customer 0101,Hyderabad,Delhi,2025-04-15,Returning
+C0102,Customer 0102,Chennai,Kerala,2024-12-24,Loyal
+C0103,Customer 0103,Mumbai,Rajasthan,2023-09-10,Returning
+C0104,Customer 0104,Kochi,Kerala,2025-02-08,Loyal
+C0105,Customer 0105,Hyderabad,Kerala,2023-10-29,Returning
+C0106,Customer 0106,Hyderabad,Tamil Nadu,2023-08-12,Returning
+C0107,Customer 0107,Pune,Rajasthan,2025-03-22,New
+C0108,Customer 0108,Chennai,Kerala,2025-03-12,Loyal
+C0109,Customer 0109,Jaipur,Telangana,2025-11-16,New
+C0110,Customer 0110,Kochi,Tamil Nadu,2023-06-30,Loyal
+C0111,Customer 0111,Delhi,Karnataka,2023-07-28,New
+C0112,Customer 0112,Jaipur,Tamil Nadu,2024-11-09,Loyal
+C0113,Customer 0113,Hyderabad,Rajasthan,2025-10-31,Loyal
+C0114,Customer 0114,Bengaluru,Kerala,2025-11-13,New
+C0115,Customer 0115,Kochi,Kerala,2023-09-09,Loyal
+C0116,Customer 0116,Chennai,Telangana,2025-04-06,New
+C0117,Customer 0117,Kochi,Telangana,2023-07-08,Loyal
+C0118,Customer 0118,Jaipur,Rajasthan,2025-02-12,Returning
+C0119,Customer 0119,Kochi,Karnataka,2024-08-24,New
+C0120,Customer 0120,Jaipur,Rajasthan,2023-03-26,Returning
+C0121,Customer 0121,Delhi,Karnataka,2023-02-20,Loyal
+C0122,Customer 0122,Bengaluru,Karnataka,2024-06-26,Loyal
+C0123,Customer 0123,Mumbai,Maharashtra,2023-02-07,Returning
+C0124,Customer 0124,Chennai,Kerala,2025-10-11,Returning
+C0125,Customer 0125,Jaipur,Kerala,2024-03-21,Returning
+C0126,Customer 0126,Pune,Karnataka,2023-07-29,New
+C0127,Customer 0127,Kochi,Kerala,2023-06-10,Returning
+C0128,Customer 0128,Chennai,Rajasthan,2024-05-06,New
+C0129,Customer 0129,Jaipur,Rajasthan,2025-11-12,Returning
+C0130,Customer 0130,Bengaluru,Maharashtra,2024-02-03,Returning
+C0131,Customer 0131,Pune,Karnataka,2023-02-25,Loyal
+C0132,Customer 0132,Jaipur,Maharashtra,2024-08-26,New
+C0133,Customer 0133,Kochi,Tamil Nadu,2025-04-22,Returning
+C0134,Customer 0134,Bengaluru,Rajasthan,2023-06-09,New
+C0135,Customer 0135,Delhi,Kerala,2023-06-04,Returning
+C0136,Customer 0136,Pune,Maharashtra,2024-02-16,Returning
+C0137,Customer 0137,Kochi,Rajasthan,2024-12-18,Returning
+C0138,Customer 0138,Kochi,Maharashtra,2024-11-17,Returning
+C0139,Customer 0139,Bengaluru,Telangana,2023-04-17,Loyal
+C0140,Customer 0140,Chennai,Kerala,2024-09-29,Returning
+C0141,Customer 0141,Pune,Rajasthan,2023-12-20,New
+C0142,Customer 0142,Pune,Karnataka,2025-03-04,Returning
+C0143,Customer 0143,Bengaluru,Tamil Nadu,2023-03-01,Returning
+C0144,Customer 0144,Chennai,Telangana,2024-09-07,Loyal
+C0145,Customer 0145,Bengaluru,Rajasthan,2025-11-23,Loyal
+C0146,Customer 0146,Delhi,Delhi,2023-09-20,Loyal
+C0147,Customer 0147,Mumbai,Karnataka,2024-11-27,Returning
+C0148,Customer 0148,Hyderabad,Kerala,2023-12-29,New
+C0149,Customer 0149,Delhi,Tamil Nadu,2024-03-09,New
+C0150,Customer 0150,Pune,Delhi,2025-01-23,Loyal
+C0151,Customer 0151,Hyderabad,Karnataka,2024-04-14,Returning
+C0152,Customer 0152,Mumbai,Kerala,2025-12-10,Returning
+C0153,Customer 0153,Delhi,Karnataka,2025-04-13,Loyal
+C0154,Customer 0154,Pune,Karnataka,2025-03-10,New
+C0155,Customer 0155,Chennai,Delhi,2023-01-25,Returning
+C0156,Customer 0156,Bengaluru,Kerala,2025-01-21,New
+C0157,Customer 0157,Jaipur,Kerala,2023-05-22,New
+C0158,Customer 0158,Hyderabad,Maharashtra,2023-05-10,New
+C0159,Customer 0159,Mumbai,Maharashtra,2025-01-18,Returning
+C0160,Customer 0160,Jaipur,Kerala,2025-12-19,Returning
+C0161,Customer 0161,Jaipur,Kerala,2023-11-02,Loyal
+C0162,Customer 0162,Delhi,Tamil Nadu,2025-01-18,Loyal
+C0163,Customer 0163,Bengaluru,Telangana,2023-08-24,Loyal
+C0164,Customer 0164,Delhi,Telangana,2025-01-30,Returning
+C0165,Customer 0165,Jaipur,Telangana,2023-02-22,New
+C0166,Customer 0166,Bengaluru,Karnataka,2025-12-06,Loyal
+C0167,Customer 0167,Kochi,Telangana,2025-02-16,Loyal
+C0168,Customer 0168,Jaipur,Delhi,2024-01-28,Loyal
+C0169,Customer 0169,Delhi,Kerala,2024-02-24,New
+C0170,Customer 0170,Bengaluru,Delhi,2023-03-02,New
+C0171,Customer 0171,Jaipur,Rajasthan,2024-12-24,Returning
+C0172,Customer 0172,Jaipur,Rajasthan,2025-07-24,Returning
+C0173,Customer 0173,Kochi,Kerala,2023-10-12,New
+C0174,Customer 0174,Kochi,Telangana,2025-06-09,Loyal
+C0175,Customer 0175,Jaipur,Kerala,2024-10-26,Loyal
+C0176,Customer 0176,Delhi,Maharashtra,2023-04-06,Loyal
+C0177,Customer 0177,Delhi,Tamil Nadu,2024-09-16,New
+C0178,Customer 0178,Jaipur,Kerala,2024-06-07,Loyal
+C0179,Customer 0179,Delhi,Tamil Nadu,2023-01-10,New
+C0180,Customer 0180,Delhi,Karnataka,2023-09-13,Loyal
+C0181,Customer 0181,Bengaluru,Telangana,2025-08-01,Returning
+C0182,Customer 0182,Bengaluru,Karnataka,2024-03-28,New
+C0183,Customer 0183,Kochi,Maharashtra,2024-11-02,New
+C0184,Customer 0184,Hyderabad,Karnataka,2024-12-25,New
+C0185,Customer 0185,Mumbai,Maharashtra,2025-06-22,Loyal
+C0186,Customer 0186,Hyderabad,Rajasthan,2023-12-10,Returning
+C0187,Customer 0187,Pune,Maharashtra,2023-10-28,Loyal
+C0188,Customer 0188,Jaipur,Telangana,2025-01-15,Returning
+C0189,Customer 0189,Jaipur,Telangana,2023-10-02,New
+C0190,Customer 0190,Hyderabad,Maharashtra,2025-07-11,Returning
+C0191,Customer 0191,Bengaluru,Telangana,2025-09-29,Loyal
+C0192,Customer 0192,Delhi,Telangana,2023-11-07,Loyal
+C0193,Customer 0193,Chennai,Rajasthan,2023-02-08,New
+C0194,Customer 0194,Pune,Tamil Nadu,2023-02-16,Returning
+C0195,Customer 0195,Chennai,Telangana,2025-10-12,New
+C0196,Customer 0196,Pune,Karnataka,2025-03-28,Loyal
+C0197,Customer 0197,Chennai,Delhi,2025-07-30,Returning
+C0198,Customer 0198,Pune,Telangana,2024-05-12,Loyal
+C0199,Customer 0199,Bengaluru,Tamil Nadu,2023-07-14,Returning
+C0200,Customer 0200,Kochi,Tamil Nadu,2023-07-10,New
+C0201,Customer 0201,Delhi,Rajasthan,2024-12-09,Loyal
+C0202,Customer 0202,Pune,Maharashtra,2025-05-26,New
+C0203,Customer 0203,Mumbai,Delhi,2024-06-27,Returning
+C0204,Customer 0204,Delhi,Telangana,2024-05-02,Loyal
+C0205,Customer 0205,Delhi,Delhi,2023-02-01,Returning
+C0206,Customer 0206,Chennai,Telangana,2025-12-15,Loyal
+C0207,Customer 0207,Chennai,Rajasthan,2024-06-18,New
+C0208,Customer 0208,Jaipur,Karnataka,2023-12-12,Returning
+C0209,Customer 0209,Delhi,Tamil Nadu,2024-09-22,Returning
+C0210,Customer 0210,Chennai,Karnataka,2024-06-06,Loyal
+C0211,Customer 0211,Mumbai,Tamil Nadu,2024-04-15,Loyal
+C0212,Customer 0212,Mumbai,Rajasthan,2025-01-30,Loyal
+C0213,Customer 0213,Bengaluru,Maharashtra,2024-06-07,Returning
+C0214,Customer 0214,Bengaluru,Delhi,2024-09-12,Returning
+C0215,Customer 0215,Mumbai,Karnataka,2023-12-07,Loyal
+C0216,Customer 0216,Chennai,Telangana,2025-07-13,Loyal
+C0217,Customer 0217,Bengaluru,Rajasthan,2024-04-18,New
+C0218,Customer 0218,Delhi,Rajasthan,2025-06-09,Loyal
+C0219,Customer 0219,Mumbai,Delhi,2023-12-04,New
+C0220,Customer 0220,Kochi,Telangana,2023-05-11,Returning
+C0221,Customer 0221,Pune,Kerala,2023-02-14,New
+C0222,Customer 0222,Kochi,Telangana,2025-11-17,Returning
+C0223,Customer 0223,Delhi,Maharashtra,2024-10-29,Loyal
+C0224,Customer 0224,Delhi,Karnataka,2024-10-10,Returning
+C0225,Customer 0225,Bengaluru,Tamil Nadu,2025-07-22,Returning
+C0226,Customer 0226,Pune,Kerala,2024-04-23,Loyal
+C0227,Customer 0227,Kochi,Delhi,2023-05-10,Returning
+C0228,Customer 0228,Chennai,Delhi,2024-08-03,Returning
+C0229,Customer 0229,Jaipur,Delhi,2024-05-22,New
+C0230,Customer 0230,Mumbai,Telangana,2024-01-30,Loyal
+C0231,Customer 0231,Hyderabad,Delhi,2023-06-21,Returning
+C0232,Customer 0232,Jaipur,Kerala,2023-09-25,Returning
+C0233,Customer 0233,Hyderabad,Delhi,2024-03-03,Returning
+C0234,Customer 0234,Pune,Maharashtra,2023-06-29,Returning
+C0235,Customer 0235,Hyderabad,Rajasthan,2025-02-22,New
+C0236,Customer 0236,Mumbai,Tamil Nadu,2023-07-20,New
+C0237,Customer 0237,Pune,Maharashtra,2025-05-18,New
+C0238,Customer 0238,Mumbai,Kerala,2023-08-17,New
+C0239,Customer 0239,Hyderabad,Delhi,2025-04-08,New
+C0240,Customer 0240,Kochi,Karnataka,2023-06-29,Returning
+C0241,Customer 0241,Hyderabad,Tamil Nadu,2025-11-22,New
+C0242,Customer 0242,Mumbai,Maharashtra,2024-03-21,New
+C0243,Customer 0243,Delhi,Delhi,2024-06-30,New
+C0244,Customer 0244,Kochi,Karnataka,2025-08-14,New
+C0245,Customer 0245,Kochi,Rajasthan,2023-12-23,Returning
+C0246,Customer 0246,Pune,Tamil Nadu,2024-12-24,Returning
+C0247,Customer 0247,Hyderabad,Maharashtra,2023-05-10,New
+C0248,Customer 0248,Bengaluru,Kerala,2025-12-22,Loyal
+C0249,Customer 0249,Pune,Telangana,2025-04-23,Loyal
+C0250,Customer 0250,Mumbai,Rajasthan,2025-09-08,New

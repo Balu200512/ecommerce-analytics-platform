@@ -1,0 +1,17 @@
+ProductID,ProductName,Category,UnitPriceINR,UnitCostINR
+P001,Wireless Mouse,Electronics,899,501.96
+P002,Keyboard,Electronics,1599,992.34
+P003,Monitor,Electronics,12999,8292.86
+P004,Headphones,Electronics,2499,1522.06
+P005,Laptop Stand,Electronics,1799,1159.07
+P006,Desk Lamp,Home,1299,800.74
+P007,Storage Box,Home,499,311.88
+P008,Office Chair,Home,7499,4024.15
+P009,Water Bottle,Home,599,306.04
+P010,Backpack,Fashion,1999,1102.31
+P011,T-Shirt,Fashion,699,488.15
+P012,Sneakers,Fashion,3499,1704.41
+P013,Wallet,Fashion,999,578.03
+P014,Python Programming,Books,799,478.01
+P015,Data Analytics Handbook,Books,999,634.22
+P016,SQL Basics,Books,599,360.23
